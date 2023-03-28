@@ -1,1 +1,1 @@
-{"short_name":"Jolly","name":"Antonio Delrio | Jolly","icons":[{"src":"/assets/img/icon.png","type":"image/png","sizes":"1000x1000"},{"src":"/assets/img/icon.png","type":"image/png","sizes":"1000x1000"}],"start_url":"index.html","display":"fullscreen"}
+{"short_name":"Jolly","name":"Antonio Delrio | Jolly","icons":[{"src":"https://thejolly01.github.io/assets/img/icon.png","type":"image/png","sizes":"1000x1000"},{"src":"https://thejolly01.github.io/assets/img/icon.png","type":"image/png","sizes":"1000x1000"}],"start_url":"index.html","display":"fullscreen"}
